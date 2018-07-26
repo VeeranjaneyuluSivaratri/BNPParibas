@@ -4,3 +4,4 @@ This can be improved in many aspects, but to keep it simple they are not include
 - logging using a framework such as slf4j-log4j
 - test coverage reports can be generated using jacoco
 - project info report
+- documentation
